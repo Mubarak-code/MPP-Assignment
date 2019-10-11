@@ -1,0 +1,4 @@
+1. 
+- First log shows false because Person is not instanceof PersonWithJob.
+- Second log shows true because PersonWithJob is an instanceof Person and name is equal.
+- Create a class call Job and add into Person as an variable, then delete class PersonWithJob.
